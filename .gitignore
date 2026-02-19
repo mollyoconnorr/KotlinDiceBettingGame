@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# Kotlin compiled files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Gradle (if using it)
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+META-INF/
