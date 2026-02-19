@@ -165,7 +165,7 @@ fun getValidRounds(): Int {
         if (number == null)
             println("\u001B[31mInvalid rounds. Please enter a number.\u001B[0m")
         else if (number !in 1..10)
-            println("\u001B[31mInvalid rounds. Please enter a number between 1 and 20.\u001B[0m")
+            println("\u001B[31mInvalid rounds. Please enter a number between 1 and 10.\u001B[0m")
         else return number
     }
 }
